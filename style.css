@@ -1,0 +1,233 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    
+}
+
+.div1 {
+border: 13px solid;
+height: 200px;
+width: 110px;
+display: inline-block;
+
+}
+
+.div2 {
+    position: relative;
+    border: 13px solid;
+    height: 200px;
+    width: 150px;
+    display: inline-block;
+    left: 100px;
+    bottom: 204px;
+    background-color: yellow;
+    
+    }
+
+.div3{
+    position: relative;
+    border: 13px solid;
+    height: 200px;
+    width: 250px;
+    bottom: 408px;
+    left: 240px;
+    background-color: blue;
+    display: inline-block;
+}
+
+.div4{
+    position: relative;
+    border: 13px solid;
+    height: 200px;
+    width: 350px;
+    bottom: 612px;
+    left: 481px;
+    background-color: red;
+    display: inline-block;
+}
+
+.div5 {
+    border: 13px solid;
+    height: 200px;
+    width: 110px;
+    position: relative;
+    bottom: 816px;
+    left: 819px;
+    display: inline-block;
+}
+
+.div6 {
+    position: relative;
+    border: 13px solid;
+    height: 200px;
+    width: 110px;
+    display: inline-block;
+    bottom: 832px;
+    
+    }
+
+    .div7 {
+        position: relative;
+        border: 13px solid;
+        height: 200px;
+        width: 150px;
+        display: inline-block;
+        bottom: 1036px;
+        left: 99px;
+        
+        }
+
+        .div8{
+            position: relative;
+            border: 13px solid;
+            height: 200px;
+            width: 250px;
+            bottom: 1240px;
+            left: 239px;
+
+        }
+    
+    .div9{
+        position: relative;
+        border: 13px solid;
+        height: 200px;
+        width: 110px;
+        display: inline-block;
+        bottom: 1440px;
+        left: 476px;
+    }
+
+    .div10{
+        position: absolute;
+        border: 13px solid;
+        height: 200px;
+        width: 250px;
+        top: 188px;
+        left: 574px;
+        background-color: blue;
+
+    }
+
+    .div11{
+        position: absolute;
+        border: 13px solid;
+        height: 200px;
+        width: 129px;
+        top: 188px;
+        left: 800px;
+        background-color: red;
+    }
+
+    .div12{
+        position: relative;
+        border: 13px solid;
+        height: 214px;
+        width: 110px;
+        bottom: 1457px;
+        display: inline-block;
+    }
+
+    .div13{
+        position: relative;
+        border: 13px solid;
+        height: 105px;
+        width: 152px;
+        bottom: 1671px;
+        left: 98px;
+    }
+
+    .div14{
+        position: relative;
+        border: 13px solid;
+        height: 122px;
+        width: 152px;
+        bottom: 1689px;
+        left: 98px;
+        background-color: blue;
+        
+    }
+        
+    .div15{
+        position: relative;
+        border: 13px solid;
+        height: 105px;
+        width: 347px;
+        left: 240px;
+        bottom: 1904px;
+        background-color: red;
+        display: inline-block;
+    }
+
+    .div16{
+        position: relative;
+        border: 13px solid;
+        display: inline-block;
+        height: 100px;
+        width: 150px;
+        left: 574px;
+        bottom: 2008px;
+    }
+
+    .div17{
+        position: relative;
+        border: 13px solid;
+        display: inline-block;
+        height: 103px;
+        width: 110px;
+        left: 711px;
+        bottom: 2115px;
+        background-color: yellow;
+    }
+    .div18{
+        position: relative;
+        display: inline-block;
+        border: 13px solid;
+        height: 122px;
+        width: 350px;
+        bottom: 2131px;
+        left: 238px;
+        background-color: yellow;
+        
+    }
+
+   .div19{
+    position: relative;
+    display: inline-block;
+    height: 122px;
+    width: 149px;
+    border: 13px solid;
+    bottom: 2257px;
+    left: 576px;
+   }
+
+   .div20{
+        position: relative;
+        display: inline-block;
+        border: 13px solid;
+        height: 120px;
+        width: 109px;
+        left: 712px;
+        bottom: 2381px;
+        background-color: blue;
+   }
+   .div21{
+    position: relative;
+    display: inline-block;
+    border: 13px solid;
+    height: 210px;
+    width: 122px;
+    left: 808px;
+    bottom: 2595px;
+   }
+
+   
+
+
+
+
+
+
+
+
+
